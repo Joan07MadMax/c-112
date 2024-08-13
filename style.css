@@ -1,0 +1,33 @@
+body
+{
+    color: white;
+    background: linear-gradient(rgb(4, 223, 131) 33%, rgba(4, 223, 132, 0.808)33%, rgba(4, 223, 132, 0.651)33%);
+}
+span
+{
+    font-size: 30px;
+}
+#camera, #result
+{
+    border: 3px;
+    width: 320px;
+    height: 300px;
+}
+#result_emotion_name, #result_emotion_name2
+{
+    color: rgb(6, 51, 59);
+}
+label
+{
+    font-size: 14px;
+    color: rgb(146, 250, 177);
+    padding: 6px;
+    border-radius: 10px;
+    background-color: black;
+}
+.heading
+{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
